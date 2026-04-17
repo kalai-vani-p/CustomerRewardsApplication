@@ -50,7 +50,7 @@ const CommonTable = ({ tabs }) => {
   useEffect(() => {
     setTableState((prev) => ({
       ...prev,
-      search: "",
+      //search: "",
       page: 0,
       selectedMonth: "",
       dateRange: { from: "", to: "" },
