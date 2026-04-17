@@ -118,7 +118,7 @@
 
 ### Test Results
 
-![Test Results](public/assets/screenShots/Testcase.png)
+![Test Results](public/assets/screenShots/TestCase.png)
 
 ### Test Coverage Results
 
